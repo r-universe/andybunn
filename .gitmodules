@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/andybunn/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "dplR"]
 	path = dplR
-	url = https://github.com/AndyBunn/dplR
+	url = https://github.com/andybunn/dplr
